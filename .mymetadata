@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gegegeg"
+  id="myeclipse.1448855601998"
+  context-root="/gegegeg"
+  j2ee-spec="5.0"
+  archive="gegegeg.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
